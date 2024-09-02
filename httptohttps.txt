@@ -17,7 +17,7 @@ dvdf
 
 did second change
 
-added
+
 Http to https redirection for Nginx 
 _____________________________________
 
